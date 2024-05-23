@@ -57,7 +57,7 @@ public class Cook extends Worker implements CookInterface {
     @Override
     public void cookDishes(String dish)
     {
-        System.out.printf("\nsI`m staying on %s and cook %s", this.section, dish);
+        System.out.printf("\nI`m staying on %s and cook %s", this.section, dish);
         System.out.println();
     }
 

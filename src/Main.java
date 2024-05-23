@@ -2,9 +2,6 @@ import java.util.ArrayList;
 import java.util.Random;
 
 public class Main {
-    private static ArrayList<Cook> cookTeam;
-    private static ArrayList<Waitress> diningTeam;
-
     public static void main(String[] args) {
         // Get the log instance
         Log log = Log.getInstance();

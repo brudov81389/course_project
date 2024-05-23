@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Random;
 
 public class Party {
-    private Log log;
+    private final Log log;
     protected ArrayList<Cook> cookTeam;
     protected ArrayList<Waitress> diningTeam;
 

@@ -76,3 +76,43 @@
 [23-05-2024 09:26:13][INFO]: Waiter Andrzej received a total of 10 PLN in tips.
 [23-05-2024 09:26:13][INFO]: Waiter Andrzej received a total of 15 PLN in tips.
 [23-05-2024 09:26:13][INFO]: Waiter Andrzej received a total of 4 PLN in tips.
+[23-05-2024 09:32:16][INFO]: Hello and welcome!
+
+[23-05-2024 09:32:16][INFO]: Restaurant is getting ready for work...
+[23-05-2024 09:32:16][INFO]: Start to creating a kitchen team
+[23-05-2024 09:32:16][INFO]: The end of forming the kitchen team
+[23-05-2024 09:32:16][INFO]: Start to creating a dining team
+[23-05-2024 09:32:16][INFO]: The end of forming the kitchen team
+[23-05-2024 09:32:16][INFO]: The kitchen is getting ready for the event
+[23-05-2024 09:32:22][INFO]: The kitchen serves dishes on plates
+[23-05-2024 09:32:22][INFO]: The waitress serves dishes to table number 6
+[23-05-2024 09:32:22][INFO]: The waitress receives a 2 PLN tip
+[23-05-2024 09:32:22][INFO]: The waitress serves dishes to table number 5
+[23-05-2024 09:32:22][INFO]: The waitress receives a 11 PLN tip
+[23-05-2024 09:32:22][INFO]: The waitress serves dishes to table number 3
+[23-05-2024 09:32:22][INFO]: The waitress receives a 0 PLN tip
+[23-05-2024 09:32:22][INFO]: The cooks are cleaning the kitchen
+[23-05-2024 09:32:22][INFO]: The waitress are cleaning tables
+[23-05-2024 09:32:22][INFO]: Waiter Andrzej received a total of 2 PLN in tips.
+[23-05-2024 09:32:22][INFO]: Waiter Andrzej received a total of 11 PLN in tips.
+[23-05-2024 09:32:22][INFO]: Waiter Andrzej received a total of 0 PLN in tips.
+[23-05-2024 09:35:04][INFO]: Hello and welcome!
+
+[23-05-2024 09:35:04][INFO]: Restaurant is getting ready for work...
+[23-05-2024 09:35:04][INFO]: Start to creating a kitchen team
+[23-05-2024 09:35:04][INFO]: The end of forming the kitchen team
+[23-05-2024 09:35:04][INFO]: Start to creating a dining team
+[23-05-2024 09:35:04][INFO]: The end of forming the kitchen team
+[23-05-2024 09:35:04][INFO]: The kitchen is getting ready for the event
+[23-05-2024 09:35:10][INFO]: The kitchen serves dishes on plates
+[23-05-2024 09:35:10][INFO]: The waitress serves dishes to table number 8
+[23-05-2024 09:35:10][INFO]: The waitress receives a 16 PLN tip
+[23-05-2024 09:35:10][INFO]: The waitress serves dishes to table number 7
+[23-05-2024 09:35:10][INFO]: The waitress receives a 17 PLN tip
+[23-05-2024 09:35:10][INFO]: The waitress serves dishes to table number 6
+[23-05-2024 09:35:10][INFO]: The waitress receives a 5 PLN tip
+[23-05-2024 09:35:10][INFO]: The cooks are cleaning the kitchen
+[23-05-2024 09:35:10][INFO]: The waitress are cleaning tables
+[23-05-2024 09:35:10][INFO]: Waiter Andrzej received a total of 16 PLN in tips.
+[23-05-2024 09:35:10][INFO]: Waiter Andrzej received a total of 17 PLN in tips.
+[23-05-2024 09:35:10][INFO]: Waiter Andrzej received a total of 5 PLN in tips.
